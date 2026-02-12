@@ -1,0 +1,7 @@
+1.: Download PH_Vehiclekeys from your asset manager.
+2.: I highly recommend to put it in your resources folder to manage the start order better.
+2.1: I also do recommend that you put it above any Script that Manages Garage and Dealership (for better integration)
+3.: Insert the included SQL in your Database.
+4.restart the server and test it out
+
+For integrating it into the dealership see the Integration Script_Name Post 🙂 
